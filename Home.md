@@ -1,3 +1,3 @@
-# hello
+# home page
 
-hello content
+home content
