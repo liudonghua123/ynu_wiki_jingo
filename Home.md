@@ -1,3 +1,3 @@
-# home page
+# 首页
 
 home content
